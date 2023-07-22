@@ -1,0 +1,7 @@
+# Ignore Node Modules
+node_modules/
+
+# Ignore macOS DS_Store files
+.DS_Store
+
+# Add other files/folders you want to ignore (e.g., log files, build artifacts, etc.)
